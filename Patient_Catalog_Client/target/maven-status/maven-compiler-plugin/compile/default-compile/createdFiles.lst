@@ -1,0 +1,7 @@
+org\microservices\patientservicecatalog\service\PatientService.class
+org\microservices\patientservicecatalog\controller\PatientController.class
+org\microservices\patientservicecatalog\entity\Patient.class
+org\microservices\patientservicecatalog\PatientApplication.class
+org\microservices\patientservicecatalog\repository\PatientRepository.class
+org\microservices\patientservicecatalog\exception\handling\ExceptionHandling.class
+org\microservices\patientservicecatalog\VO\DoctorPatient.class
